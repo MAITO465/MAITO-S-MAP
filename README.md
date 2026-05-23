@@ -1,5 +1,7 @@
 # Maito's Map 🗺️
 
+> ### Auteur : AIT OURAJLI MOHAMED
+
 Maito's Map est un projet Android (basé sur le LAB 11) qui démontre l'intégration de **Google Maps** avec la gestion dynamique des **permissions de localisation** et le suivi GPS en temps réel.
 
 ## 📸 Aperçu de l'application
