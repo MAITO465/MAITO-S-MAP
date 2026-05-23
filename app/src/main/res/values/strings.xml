@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maito\'s Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDummyKeyForMaitoMap1234567890</string>
+    <string name="gps_alert_title">GPS Désactivé</string>
+    <string name="gps_alert_message">Votre GPS semble être désactivé, voulez-vous l\'activer pour profiter de l\'application ?</string>
+    <string name="gps_alert_yes">Oui</string>
+    <string name="gps_alert_no">Non, merci</string>
+    <string name="permission_denied">Permission refusée, la carte ne peut pas vous géolocaliser.</string>
+    <string name="permission_granted">Super ! Permission de localisation accordée.</string>
+    <string name="marker_title">Vous êtes ici !</string>
+</resources>
